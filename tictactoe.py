@@ -102,6 +102,7 @@ while ch=="y" or ch=="Y":
         board = ["-","-","-",
          "-","-","-",
          "-","-","-"]
+        currentplayer="X"     
     
 
         
